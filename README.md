@@ -5,11 +5,11 @@ Furthermore the German characters ä, ö, ü, ß are still accessible via Alt Gr
 
 ## Images
 
-![Workman-preserve keyboard](https://github.com/nusli/Workman-preserve/blob/master/assets/wm-preserve.jpg?raw=true "Keyboard")
+![Workman-preserve keyboard](https://github.com/nusli/Workman-preserve/blob/master/assets/wm-pres.jpg?raw=true "Keyboard")
 
-![Workman-preserve keyboard with shift-key pressed](https://github.com/nusli/Workman-preserve/blob/master/assets/wm-preserve-Shft.jpg?raw=true "Keyboard (Shift pressed)")
+![Workman-preserve keyboard with shift-key pressed](https://github.com/nusli/Workman-preserve/blob/master/assets/wm-pres-Shft.jpg?raw=true "Keyboard (Shift pressed)")
 
-![Workman-preserve keyboard with Alt Gr-key pressed](https://github.com/nusli/Workman-preserve/blob/master/assets/wm-preserve-AltGr.jpg?raw=true "Keyboard(Alt Gr pressed)")
+![Workman-preserve keyboard with Alt Gr-key pressed](https://github.com/nusli/Workman-preserve/blob/master/assets/wm-pres-AltGr.jpg?raw=true "Keyboard(Alt Gr pressed)")
 
 ## Installation
 *(Windows only)*
